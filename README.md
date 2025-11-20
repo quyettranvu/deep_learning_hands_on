@@ -1,4 +1,4 @@
-# deep_learning_hands_on
+# Deep Learning Hands On Notebook
 Implementation and try-out on handy deep learning basis
 
 
